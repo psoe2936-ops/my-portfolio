@@ -105,6 +105,7 @@ const skills = [
   { name: "TypeScript", Icon: SiTypescript },
   { name: "React", Icon: SiReact },
   { name: "Next.js", Icon: SiNextdotjs },
+  {name: 'React Native', Icon: SiReact},
   { name: "Tailwind CSS", Icon: SiTailwindcss },
   { name: "Node.js", Icon: SiNodedotjs },
   { name: "Git", Icon: SiGit },
